@@ -2,7 +2,7 @@ import java.util.*;
 
 public class RobotFactory implements ToyProductFactory{
 
-    private Scanner sc;
+    //private Scanner sc;
 
 
     public ToyProduct createProduct(Scanner sc){
