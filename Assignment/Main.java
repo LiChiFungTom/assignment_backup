@@ -53,6 +53,9 @@ public class Main {
                 System.out.println("Height(cm): " );  // height
                 System.out.println("Cost($): " );    // cost
                 System.out.println("Price($): " );  // price
+                
+                // shoulde be ccreate a new class for display single one
+                
             }
             
         }else if(commend.equals("p")){
